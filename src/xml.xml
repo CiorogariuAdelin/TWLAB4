@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<queue>
+   <persoana>
+      <name>Ionel</name>
+      <varsta> 20</varsta>
+      <inaltime>1.80m</inaltime>
+      <greutate>90kg</greutate>
+       <altele>
+                <rec1>Angajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Fumator</rec3>
+       </altele>
+   </persoana>
+   <persoana>
+      <name>Dan</name>
+      <varsta> 15</varsta>
+      <inaltime>1.60m</inaltime>
+      <greutate>49kg</greutate>
+       <altele>
+                <rec1>NeAngajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Nefumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Andrei</name>
+      <varsta> 25</varsta>
+      <inaltime>1.65m</inaltime>
+      <greutate>77kg</greutate>
+       <altele>
+                <rec1>Angajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Nefumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Mirel</name>
+      <varsta> 30</varsta>
+      <inaltime>1.83m</inaltime>
+      <greutate>86kg</greutate>
+       <altele>
+                <rec1>Angajat</rec1>
+                <rec2>Casatorit</rec2>
+                <rec3>Fumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Lucian</name>
+      <varsta> 36</varsta>
+      <inaltime>1.74m</inaltime>
+      <greutate>74kg</greutate>
+       <altele>
+                <rec1>Angajat</rec1>
+                <rec2>Casatorit</rec2>
+                <rec3>Fumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Adrian</name>
+      <varsta> 21</varsta>
+      <inaltime>1.80m</inaltime>
+      <greutate>55kg</greutate>
+       <altele>
+                <rec1>Neangajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Nefumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Dorel</name>
+      <varsta> 13</varsta>
+      <inaltime>1.40m</inaltime>
+      <greutate>60kg</greutate>
+       <altele>
+                <rec1>Nengajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Nefumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Darius</name>
+      <varsta> 26</varsta>
+      <inaltime>1.63m</inaltime>
+      <greutate>60kg</greutate>
+       <altele>
+                <rec1>Nengajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Fumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Daniel</name>
+      <varsta> 18</varsta>
+      <inaltime>1.80m</inaltime>
+      <greutate>70kg</greutate>
+       <altele>
+                <rec1>Nengajat</rec1>
+                <rec2>Necasatorit</rec2>
+                <rec3>Nefumator</rec3>
+       </altele>
+   </persoana>
+
+   <persoana>
+      <name>Alex</name>
+      <varsta> 26</varsta>
+      <inaltime>1.80m</inaltime>
+      <greutate>90kg</greutate>
+       <altele>
+                <rec1>Angajat</rec1>
+                <rec2>Casatorit</rec2>
+                <rec3>Nefumator</rec3>
+       </altele>
+   </persoana>
+
+</queue>
