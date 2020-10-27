@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Queue>
+    <Persoana1 Varsta="20" greutate="90kg" inaltime="1.80m" name="Ionel">
+        <altele rec1="Angajat" rec2="Necasatorit" rec3="Fumator"/>
+        Persoana 1:
+    </Persoana1>
+    <Persoana2 Varsta="15" greutate="49kg" inaltime="1.60m" name="Dan">
+        <altele rec1="NeAngajat" rec2="Necasatorit" rec3="Nefumator"/>
+        Persoana 2:
+    </Persoana2>
+    <Persoana3 Varsta="25" greutate="77kg" inaltime="1.65m" name="Andrei">
+        <altele rec1="Angajat" rec2="Necasatorit" rec3="Nefumator"/>
+        Persoana 3:
+    </Persoana3>
+    <Persoana4 Varsta="30" greutate="86kg" inaltime="1.83m" name="Mirel">
+        <altele rec1="Angajat" rec2="Casatorit" rec3="Fumator"/>
+        Persoana 4:
+    </Persoana4>
+    <Persoana5 Varsta="36" greutate="74kg" inaltime="1.74m" name="Lucian">
+        <altele rec1="Angajat" rec2="Casatorit" rec3="Fumator"/>
+        Persoana 5:
+    </Persoana5>
+    <Persoana6 Varsta="21" greutate="55kg" inaltime="1.80m" name="Adrian">
+        <altele rec1="Neangajat" rec2="Necasatorit" rec3="Nefumator"/>
+        Persoana 6:
+    </Persoana6>
+    <Persoana7 Varsta="13" greutate="60kg" inaltime="1.40m" name="Dorel">
+        <altele rec1="Neangajat" rec2="Necasatorit" rec3="Nefumator"/>
+        Persoana 7:
+    </Persoana7>
+    <Persoana8 Varsta="26" greutate="60kg" inaltime="1.63m" name="Darius">
+        <altele rec1="Neangajat" rec2="Necasatorit" rec3="Fumator"/>
+        Persoana 8:
+    </Persoana8>
+    <Persoana9 Varsta="18" greutate="70kg" inaltime="1.80m" name="Daniel">
+        <altele rec1="Neangajat" rec2="Necasatorit" rec3="Nefumator"/>
+        Persoana 9:
+    </Persoana9>
+    <Persoana10 Varsta="26" greutate="90kg" inaltime="1.80m" name="Alex">
+        <altele rec1="Angajat" rec2="Casatorit" rec3="Nefumator"/>
+        Persoana 10:
+    </Persoana10>
+</Queue>
