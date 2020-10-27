@@ -1,0 +1,7 @@
+<ul>
+#foreach($user in $persoana)
+$user.nume
+$user.varsta
+$user.inaltime
+#end
+</ul>
